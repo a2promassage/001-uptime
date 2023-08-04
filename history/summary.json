@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/massagesannarbor.com.ico",
     "slug": "a2-massage-main-page",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "97.14%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "97.14%",
+    "uptimeMonth": "97.14%",
+    "uptimeYear": "97.14%",
     "time": 4620,
     "timeDay": 4620,
     "timeWeek": 4620,
     "timeMonth": 4620,
     "timeYear": 4620,
     "dailyMinutesDown": {
-      "2023-08-04": 0
+      "2023-08-04": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://massagesannarbor.com/book-now/",
     "icon": "https://icons.duckduckgo.com/ip3/massagesannarbor.com.ico",
     "slug": "a2-massage-book-now",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 4330,
-    "timeDay": 4330,
-    "timeWeek": 4330,
-    "timeMonth": 4330,
-    "timeYear": 4330,
+    "status": "up",
+    "uptime": "97.21%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "97.21%",
+    "uptimeMonth": "97.21%",
+    "uptimeYear": "97.21%",
+    "time": 4335,
+    "timeDay": 4335,
+    "timeWeek": 4335,
+    "timeMonth": 4335,
+    "timeYear": 4335,
     "dailyMinutesDown": {
-      "2023-08-04": 0
+      "2023-08-04": 13
     }
   },
   {
