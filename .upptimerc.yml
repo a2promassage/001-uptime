@@ -18,8 +18,8 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: blancobranding.com
+    url: https://www.blancobranding.com/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
