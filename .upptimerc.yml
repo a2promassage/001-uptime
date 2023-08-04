@@ -6,6 +6,12 @@ user-agent: a2promassage
 sites:
   - name: A2-Massage main page
     url: https://massagesannarbor.com/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 500
+      - 503
   - name: A2-Massage book now
     url: https://massagesannarbor.com/book-now/
   - name: Google
