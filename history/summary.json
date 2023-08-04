@@ -4,19 +4,19 @@
     "url": "https://massagesannarbor.com/",
     "icon": "https://icons.duckduckgo.com/ip3/massagesannarbor.com.ico",
     "slug": "a2-massage-main-page",
-    "status": "down",
-    "uptime": "97.14%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "97.14%",
-    "uptimeMonth": "97.14%",
-    "uptimeYear": "97.14%",
-    "time": 4620,
-    "timeDay": 4620,
-    "timeWeek": 4620,
-    "timeMonth": 4620,
-    "timeYear": 4620,
+    "status": "up",
+    "uptime": "89.02%",
+    "uptimeDay": "89.02%",
+    "uptimeWeek": "89.02%",
+    "uptimeMonth": "89.02%",
+    "uptimeYear": "89.02%",
+    "time": 4383,
+    "timeDay": 4383,
+    "timeWeek": 4383,
+    "timeMonth": 4383,
+    "timeYear": 4383,
     "dailyMinutesDown": {
-      "2023-08-04": 13
+      "2023-08-04": 55
     }
   },
   {
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/massagesannarbor.com.ico",
     "slug": "a2-massage-book-now",
     "status": "up",
-    "uptime": "97.21%",
-    "uptimeDay": "97.21%",
-    "uptimeWeek": "97.21%",
-    "uptimeMonth": "97.21%",
-    "uptimeYear": "97.21%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4335,
     "timeDay": 4335,
     "timeWeek": 4335,
     "timeMonth": 4335,
     "timeYear": 4335,
-    "dailyMinutesDown": {
-      "2023-08-04": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "West Broward Massage",
