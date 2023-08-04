@@ -9,15 +9,16 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-      - 404
   - name: A2-Massage book now
     url: https://massagesannarbor.com/book-now/
+  - name: West Broward Massage
+    url: https://westbrowardtherapeuticmassage.com/
+  - name: blancobranding.com
+    url: https://www.blancobranding.com/
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: blancobranding.com
-    url: https://www.blancobranding.com/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
