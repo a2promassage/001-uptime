@@ -3,14 +3,9 @@ owner: a2promassage # Your GitHub organization or username, where this repositor
 repo: 001-uptime # The name of this repository
 user-agent: a2promassage
 
-#https://upptime.js.org/docs/configuration/
-
 sites:
   - name: A2-Massage main page
     url: https://massagesannarbor.com/
-    expectedStatusCodes:
-      - 200
-      - 201
   - name: A2-Massage book now
     url: https://massagesannarbor.com/book-now/
   - name: West Broward Massage
@@ -30,7 +25,7 @@ status-website:
   name: Upptime
   introTitle: "**Upptime**"
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime).
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime).
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
