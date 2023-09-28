@@ -12,6 +12,8 @@ sites:
     url: https://westbrowardtherapeuticmassage.com/
   - name: blancobranding.com
     url: https://www.blancobranding.com/
+  - name: a2pm.co
+    url: https://www.a2pm.co/    
 
 assignees: # Users to assign downtime issues (optional)
   - a2promassage
