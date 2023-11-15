@@ -49,18 +49,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/westbrowardtherapeuticmassage.com.ico",
     "slug": "west-broward-massage",
     "status": "down",
-    "uptime": "91.90%",
+    "uptime": "91.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.82%",
-    "uptimeYear": "91.90%",
+    "uptimeMonth": "71.63%",
+    "uptimeYear": "91.58%",
     "time": 365,
     "timeDay": 356,
     "timeWeek": 254,
     "timeMonth": 466,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2023-11-15": 34,
+      "2023-11-15": 554,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
@@ -100,9 +100,9 @@
     "url": "https://www.a2pm.co/",
     "icon": "https://icons.duckduckgo.com/ip3/www.a2pm.co.ico",
     "slug": "a2pm-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,6 +111,8 @@
     "timeWeek": 353,
     "timeMonth": 379,
     "timeYear": 387,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-15": 0
+    }
   }
 ]
