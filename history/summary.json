@@ -192,11 +192,11 @@
     "url": "https://www.a2pm.co/",
     "icon": "https://icons.duckduckgo.com/ip3/www.a2pm.co.ico",
     "slug": "a2pm-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 373,
     "timeDay": 360,
@@ -204,7 +204,7 @@
     "timeMonth": 375,
     "timeYear": 373,
     "dailyMinutesDown": {
-      "2024-07-14": 31,
+      "2024-07-14": 24,
       "2023-11-15": 28
     }
   }
